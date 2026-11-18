@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miamibeachrestorationco.com/sitemap.xml
